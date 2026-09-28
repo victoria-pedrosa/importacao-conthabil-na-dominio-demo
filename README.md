@@ -1,6 +1,6 @@
-# Importacao Conthabil Na Dominio
+# Demonstração — Preparação de arquivos do Conthabil para a Domínio
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de preparação de arquivos do Conthabil para a Domínio — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Arquivos gerados pelo Conthabil precisavam de ajuste de apelidos e organização antes da importação na Domínio.
